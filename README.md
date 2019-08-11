@@ -1,12 +1,16 @@
-ADV
+ADV: Automated Driving Vehicle
 ===
+Because you deserve to relax all the way home
 
-Project ADV - Automated Driving Vehicle 
+![ADV Interface](https://www.cs.virginia.edu/~nn4pj/softwareScreen.jpg)
 
+# Introduction
 The project is implemented in MATLAB. The motion planner software, called Simulator AVD, is developed as the result of the method. Simulator ADV offers an array of amazing features in which users can experience. Below is a few key features that is available in Simulator ADV.
 
-Key Features
+# Key Features
 ---
+
+![Tuning Screen](https://www.cs.virginia.edu/~nn4pj/tuningScreen.jpg)
 
 ### Interactive inputs
 
@@ -25,8 +29,9 @@ The machanism of RRTs can be clearly explained in step-by-step simulation. The a
 You get to tune how fast should the car-robot go, how sharp should it turn. You can also determine the shape of the car, should it a long van, or big SUV, or a small compact. It's all up to you!
 
 
+
 Other resources
 ---
 
-You can find the project webpage [here](http://fcl.uncc.edu/nhnguye1/ADV.html)
+You can find the project webpage [here](https://www.cs.virginia.edu/~nn4pj/ADV.html)
 
